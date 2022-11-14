@@ -8,7 +8,7 @@ It describes best practices and shows an opinionated approach to make it simple 
 For users already familiar with JetBrains IntelliJ, there's a xref:quick-start.adoc[] documentation.
 For advanced installation options, see the page xref:installation.adoc[].
 
-== Why to use IntelliJ for technical writing
+== Why use IntelliJ for technical writing?
 
 The AsciiDoc plugin provides an as-you-type preview, syntax highlighting,  auto-completion and content validation in one plugin.
 The IntelliJ IDE offers a great integration with Git and also plugins for spell and grammar checking.
@@ -18,7 +18,7 @@ To get a full overview of all features of the plugin, see xref:features.adoc[].
 == Steps to set up a writer's environment
 
 Follow these steps to set up IntelliJ IDEA as the tool for technical writing.
-Each page gives a brief overview to get started and links to other pages in this guide for additional information.
+Each page contains an overview about how to get started and links to other pages in this guide for additional information.
 
 . xref:./installing-intellij.adoc[Installing IntelliJ IDEA as the workplace for technical writing].
 . xref:./starting-intellij-first-time.adoc[Starting IntelliJ IDEA for the first time and installing the AsciiDoc plugin].
@@ -31,16 +31,18 @@ Each page gives a brief overview to get started and links to other pages in this
 . xref:./recommended-plugins.adoc[Enhance a writer's productivity with plugins for IntelliJ].
 ////
 
-== Improving this guide
+== Improve this guide //remove all -ING gerund words where possible to improve readability
 
-Each of the pages in the guide has an "`Edit this page`" link in the upper right corner.
-Use this to edit the content on GitHub.
-As an alternative, all content to this guide is hosted in the https://github.com/asciidoctor/asciidoctor-intellij-plugin[Git repository of the AsciiDoc plugin] in the _doc_ folder, so it can be edited in an IDE like any other AsciiDoc content.
+There are two main ways to improve this guide:
 
-If there are missing features, link:mailto:alexander.schwartz@gmx.net?subject=Feedback%20to%20IntelliJ%20Technical%20Setup[contact the maintainer via email] or https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/new/choose[create an issue on GitHub].
+* Each of the pages in the guide has an "`Edit this page`" link in the upper right corner. Use this to edit the content on GitHub.
 
-== Further reading
+* All content to this guide is hosted in the https://github.com/asciidoctor/asciidoctor-intellij-plugin[Git repository of the AsciiDoc plugin] in the _doc_ folder, so it can be edited in an IDE like any other AsciiDoc content.
 
-To get a full overview of all features of the plugin, see xref:features.adoc[].
+Send feature requests to link:mailto:alexander.schwartz@gmx.net?subject=Feedback%20to%20IntelliJ%20Technical%20Setup[contact the maintainer via email] or https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/new/choose[create an issue on GitHub].
 
-To custom the plugin's settings, see xref:recommended-settings.adoc[] for recommended settings.
+== More information
+
+To get an overview of all features of the plugin, see xref:features.adoc[].
+
+To customize the plugin's settings, see xref:recommended-settings.adoc[] for recommended settings.
